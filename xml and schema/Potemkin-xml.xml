@@ -20,49 +20,65 @@
             <line n="1">Nirvana</line>
         </oneoff>
         
-        <p type="chorus" n=>
+        <chorus n="1">
             <line n="1">Discord presides</line>
             <line n="2">In Society</line>
             <line n="3">Your Society</line>
             <line n="4">Vantage - Creeps into</line>
             <line n="5">Society - Your society</line>
-        </p>
+            <line n="6">I'm a fool</line>
+            <line n="7">I know nothing</line>
+            <line n="8">I may sound like a silly clown</line>
+            <line n="9">But I won't turn my back on life</line>
+            <line n="10">One day, all will rot away</line>
+            <line n="11"><parentheses>(But)</parentheses> All. I. Do. Is. Embrace, the, wounded, soul!</line>
+        </chorus>
         
-        <p type="verse">I'm a fool
-I know nothing
-I may sound like a silly clown
-But I won't turn my back on life
-One day, all will rot away
-(But) All. I. Do. Is. Embrace, the, wounded, soul!
-        </p>
-Armor-clad Faith!
-Cruel Inequality
-(Paves way for our future)
-A black and grey system
-Always dressed to impress
-People drown in delusion
-Without reaching out for truth
-(With) thorned shield in the hand the troops
-MARCH TO OPPRESS THE YOUTH!
-Nirvana
-Discord - Presides
-In society - Your society
-Vantege - Creeps into
-Society - Your society
-I'm a fool, I know nothing
-I take the role of a silly clown
-But I won't turn my back on life
-One day, all will rot away
-(But) All. I. Do. Is. Embrace, the, wounded, soul!
-Discord - Presides
-In society - Your society
-Vantage - Creeps into
-Society - Your society
-I'm a fool, I know nothing
-I take the role of a silly clown
-But I won't turn my back on life
-I'm a fool, maybe I'm worthless
-But this world created my faith
-So all I can do is stay hopeful and pray
+        <oneoff n="3">
+            <line n="1">Armor-clad Faith!</line>
+        </oneoff>
+        
+        <verse n="2">
+            <line n="1">Cruel Inequality</line>
+            <line n="2"><parentheses>(Paves way for our future)</parentheses></line>
+            <line n="3">A black and grey system</line>
+            <line n="4">Always dressed to impress</line>
+        </verse>
+        
+        <verse n="3">
+            <line n="1">People drown in delusion</line>
+            <line n="2">Without reaching out for truth</line>
+            <line n="3"><parentheses>(With)</parentheses> thorned shield in the hand the troops</line>
+            <line n="4">MARCH TO OPPRESS THE YOUTH!</line>
+        </verse>
+        
+        <oneoff n="4">
+            <line n="1">Nirvana</line>
+        </oneoff>
+
+        <chorus n="2">
+            <line n="1">Discord - Presides</line>
+            <line n="2">In society - Your society</line>
+            <line n="3">Vantege - Creeps into</line>
+            <line n="4">Society - Your society</line>
+            <line n="5">I'm a fool, I know nothing</line>
+            <line n="6">I take the role of a silly clown</line>
+            <line n="7">But I won't turn my back on life</line>
+            <line n="8">One day, all will rot away</line>
+            <line n="9"><parentheses>(But)</parentheses> All. I. Do. Is. Embrace, the, wounded, soul!</line>
+        </chorus>
+        
+        <chorus n="3">
+            <line n="1">Discord - Presides</line>
+            <line n="2">In society - Your society</line>
+            <line n="3">Vantage - Creeps into</line>
+            <line n="4">Society - Your society</line>
+            <line n="5">I'm a fool, I know nothing</line>
+            <line n="6">I take the role of a silly clown</line>
+            <line n="7">But I won't turn my back on life</line>
+            <line n="8">I'm a fool, maybe I'm worthless</line>
+            <line n="9">But this world created my faith</line>
+            <line n="10">So all I can do is stay hopeful and pray</line>
+        </chorus>
     </song>
 </xml>
