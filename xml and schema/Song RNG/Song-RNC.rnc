@@ -2,13 +2,13 @@ datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
 
 start = xml
 xml = element xml {song}
-song = element song {mixed{(songname | author | oneoff | verse | chorus | name)*}}
+song = element song {mixed{(sname | author | oneoff | verse | chorus | name)*}}
 oneoff = element oneoff {n, line*}
 verse = element verse {n, line*}
 chorus = element chorus {n, line*}
 line = element line {n, mixed{(parentheses*)}}
 parentheses = element parentheses {text}
-songname = element name {text}
+sname = element name {text}
 author = element author {text}
 
 name = attribute name {"Armor-clad Faith" | "Alone Infection"}
