@@ -2,7 +2,7 @@
 <?xml-model href="../Song%20RNG/Song-RNC.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
     <song name="Armor-clad Faith">
-        <songname>Armor-clad Faith</songname>
+        <sname>Armor-clad Faith</sname>
         <author>Daisuke Ishiwatari</author>
         <oneoff n="1">
             <line n="1">Armor-clad Faith!</line>
