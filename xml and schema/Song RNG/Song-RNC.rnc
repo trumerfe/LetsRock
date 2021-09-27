@@ -11,7 +11,7 @@ verse = element verse {n, line*}
 chorus = element chorus {n, line*}
 line = element line {n, mixed{(parentheses*)}}
 parentheses = element parentheses {text}
-sname = element name {text}
+sname = element sname {text}
 # ebb: There's an error in the line above making is so that the <name> element is expected, not
 # <sname>. 
 author = element author {text}
