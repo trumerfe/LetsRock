@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Song%20RNG/Song-RNC.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
     <song name="Love the Subhuman Self">
         <metadata>
@@ -22,58 +23,58 @@
             </prechorus>
                 
             <chorus n="1">
-                So carry on, love the subhuman self
-                Time goes on, lasting road
-                I left my regret
-                So carry on, love the subhuman self
-                Time goes on, lasting road
-                (But) I feel a touch of moonlight
+                <line n="1">So carry on, love the subhuman self</line>
+                <line n="2">Time goes on, lasting road</line>
+                <line n="3">I left my regret</line>
+                <line n="4">So carry on, love the subhuman self</line>
+                <line n="5">Time goes on, lasting road</line>
+                <line n="6"><parentheses>(But)</parentheses> I feel a touch of moonlight</line>
             </chorus>
             
             <verse n="2">
-                I swept you off your feet... - (She told me)
-                We know deep down - There's no way
-                Throwing rocks into the lake - (The Bee's Knees)
-                How do we look? (Letdown)
+                <line n="1">I swept you off your feet... - <parentheses>(She told me)</parentheses></line>
+                <line n="2">We know deep down - There's no way</line>
+                <line n="3">Throwing rocks into the lake - <parentheses>(The Bee's Knees)</parentheses></line>
+                <line n="4">How do we look? <parentheses>(Letdown)</parentheses></line>
             </verse>
             
             <prechorus n="2">
-                Oh lullaby, don't stop
-                Until I fall in flames
-                Stay with me... stay with me
-                Until the end of time
+                <line n="1">Oh lullaby! Don't stop</line>
+                <line n="2">Until I fall in flames</line>
+                <line n="3">Stay with me... stay with me</line>
+                <line n="4">Until the end of time</line>
             </prechorus>
             
             <chorus n="2">
-                So carry on, love the subhuman self
-                Time goes on, lasting road
-                I left my regret
-                So carry on, love the subhuman self
-                Time goes on, lasting road
-                (But) I feel a touch of moonlight
+                <line n="1">So carry on, love the subhuman self</line>
+                <line n="2">Time goes on, lasting road</line>
+                <line n="3">I left my regret</line>
+                <line n="4">So carry on, love the subhuman self</line>
+                <line n="5">Time goes on, lasting road</line>
+                <line n="6"><parentheses>(But)</parentheses> I feel a touch of moonlight</line>
             </chorus>
             
             <bridge n="1">
-                Oh lullaby, don't stop
-                Even in the deepest dreams
-                Don't leave... don't leave me
-                'till time stands still
+                <line n="1">Oh lullaby, don't stop</line>
+                <line n="2">Even in the deepest dreams</line>
+                <line n="3">Don't leave... don't leave me</line>
+                <line n="4">'till time stands still</line>
             </bridge>
             
             <prechorus n="3">
-                Oh lullaby, don't stop
-                Until I fall flames
-                Stay with me... stay with me
-                Until the end of time
+                <line n="1">Oh lullaby, don't stop</line>
+                <line n="2">Until I fall flames</line>
+                <line n="3">Stay with me... stay with me</line>
+                <line n="4">Until the end of time</line>
             </prechorus>
             
             <chorus n="3">
-                So carry on, love the subhuman self
-                Time goes on, lasting road
-                I left my regret
-                So carry on, love the subhuman self
-                Time goes on, lasting road
-                (But) I feel a touch of moonlight
+                <line n="1">So carry on, love the subhuman self</line>
+                <line n="2">Time goes on, lasting road</line>
+                <line n="3">I left my regret</line>
+                <line n="4">So carry on, love the subhuman self</line>
+                <line n="5">Time goes on, lasting road</line>
+                <line n="6"><parentheses>(But)</parentheses> I feel a touch of moonlight</line>
             </chorus>
             
         </lyrics>

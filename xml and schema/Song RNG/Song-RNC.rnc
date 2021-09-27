@@ -18,5 +18,5 @@ bridge = element bridge {n, line*}
 # <sname>. 
 author = element author {text}
 
-name = attribute name {"Armor-clad Faith" | "Alone Infection"}
+name = attribute name {"Armor-clad Faith" | "Alone Infection" | "Love the Subhuman Self" | "Smell of the Game" | "Find Your One Way" | "The Roar of the Spark" | "The Disaster of Passion" | "Out of the Box" | "Play the Hero" | "Let Me Carve Your Way" | "Necessary Discrepancy" | "Hellfire" | "What do you fight for" | "Trigger" | "Rock Parade" | "Requiem" | "Crawl" | "Perfection Can't Please Me" | "The Kiss of Death"}
 n = attribute n {xsd:int}
