@@ -4,7 +4,7 @@ start = xml
 xml = element xml {song}
 song = element song {name, metadata, lyrics}
 metadata = element metadata {sname, author}
-lyrics = element lyrics {(oneoff | verse | chorus)+}
+lyrics = element lyrics {(oneoff | verse | chorus | prechorus | bridge)*}
 
 oneoff = element oneoff {n, line*}
 verse = element verse {n, line*}
@@ -12,6 +12,8 @@ chorus = element chorus {n, line*}
 line = element line {n, mixed{(parentheses*)}}
 parentheses = element parentheses {text}
 sname = element sname {text}
+prechorus = element prechorus {n, line*}
+bridge = element bridge {n, line*}
 # ebb: There's an error in the line above making is so that the <name> element is expected, not
 # <sname>. 
 author = element author {text}
