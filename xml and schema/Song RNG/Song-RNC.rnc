@@ -2,7 +2,10 @@ datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
 
 start = xml
 xml = element xml {song}
-song = element song {(name | sname | author | oneoff | verse | chorus)*}
+song = element song {name, metadata, lyrics}
+metadata = element metadata {sname, author}
+lyrics = element lyrics {(oneoff | verse | chorus)+}
+
 oneoff = element oneoff {n, line*}
 verse = element verse {n, line*}
 chorus = element chorus {n, line*}
