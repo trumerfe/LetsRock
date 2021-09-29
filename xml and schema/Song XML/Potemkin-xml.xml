@@ -9,7 +9,7 @@
         </metadata>
         <lyrics>
             <oneoff n="1">
-                <line n="1">Armor-clad Faith!</line>
+                <line n="1"><i story="pot">Armor-clad Faith!</i></line>
             </oneoff>
             <verse n="1">
                 <line n="1">Noise fills the burning sky</line>
@@ -30,10 +30,10 @@
                 <line n="3">Your Society</line>
                 <line n="4">Vantage - Creeps into</line>
                 <line n="5">Society - Your society</line>
-                <line n="6">I'm a fool</line>
-                <line n="7">I know nothing</line>
-                <line n="8">I may sound like a silly clown</line>
-                <line n="9">But I won't turn my back on life</line>
+                <line n="6"><i story="pot">I'm a fool</i></line>
+                <line n="7"><i story="pot">I know nothing</i></line>
+                <line n="8"><i story="pot">I may sound like a silly clown</i></line>
+                <line n="9"><i story="pot">But I won't turn my back on life</i></line>
                 <line n="10">One day, all will rot away</line>
                 <line n="11"><parentheses>(But)</parentheses> All. I. Do. Is. Embrace, the, wounded,
                     soul!</line>
@@ -42,7 +42,7 @@
                 <line n="1">Armor-clad Faith!</line>
             </oneoff>
             <verse n="2">
-                <line n="1">Cruel Inequality</line>
+                <line n="1"><i story="pot">Cruel Inequality</i></line>
                 <line n="2"><parentheses>(Paves way for our future)</parentheses></line>
                 <line n="3">A black and grey system</line>
                 <line n="4">Always dressed to impress</line>
@@ -78,7 +78,7 @@
                 <line n="6">I take the role of a silly clown</line>
                 <line n="7">But I won't turn my back on life</line>
                 <line n="8">I'm a fool, maybe I'm worthless</line>
-                <line n="9">But this world created my faith</line>
+                <line n="9"><i story="pot">But this world created my faith</i></line>
                 <line n="10">So all I can do is stay hopeful and pray</line>
             </chorus>
             

@@ -15,7 +15,7 @@
             </verse>
             
             <prechorus n="1">
-                <line n="1">Vanish into dark</line>
+                <line n="1"><i story="zato">Vanish into dark</i></line>
                 <line n="2">Future, Now and Past</line>
                 <line n="3">Vanish into dark</line>
                 <line n="4">When it all mixes up</line>
@@ -31,7 +31,7 @@
             </chorus>
             
             <verse n="2">
-                <line n="1">Abyss of desire</line>
+                <line n="1"><i story="zato">Abyss of desire</i></line>
                 <line n="2">Abyss of dreams</line>
                 <line n="3">Is it farther than the edge of the world?</line>
                 <line n="4">And then after that, will the dream still go on?</line>
@@ -98,13 +98,13 @@
             
             <verse n="7">
                 <line n="1">If there's a man who can make anything</line>
-                <line n="2">Give me the tools to live in the past</line>
-                <line n="3">It's all gone down so deep, I can't see anymore.</line>
+                <line n="2"><i story="zato">Give me the tools to live in the past</i></line>
+                <line n="3"><i story="zato">It's all gone down so deep, I can't see anymore.</i></line>
                 <line n="4">If that's not the way to go</line>
                 <line n="5">Let me... let me</line>
                 <line n="6">Let me carve your way</line>
-                <line n="7">I'm a shadow, always...</line>
-                <line n="8">with you</line>
+                <line n="7"><i story="zato">I'm a shadow, always...</i></line>
+                <line n="8"><i story="zato">with you</i></line>
             </verse>
         </lyrics>
     </song>
