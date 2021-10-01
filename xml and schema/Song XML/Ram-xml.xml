@@ -20,8 +20,8 @@
                 <line n="4">Running, calling, dying! - just burns up time</line>
             </verse>
             <verse n="3">
-                <line n="1">Madness, greed, collapse, satisfaction</line>
-                <line n="2">Envy, cheat, banging, domination</line>
+                <line n="1"><i story="ram">Madness, greed, collapse, satisfaction</i></line>
+                <line n="2"><i story="ram">Envy, cheat, banging, domination</i></line>
             </verse>
             <verse n="4">
                 <line n="1">There is a will, there is a void</line>
@@ -40,7 +40,7 @@
                 <line n="3">The loving foolish world still going on</line>
                 <line n="3">If a room without the sky,</line>
                 <line n="4">is what we idolize, it's a dead tomorrow</line>
-                <line n="5">Right and wrong are not for sure</line>
+                <line n="5"><i story="ram">Right and wrong are not for sure</i></line>
                 <line n="6">The castle made of sand will fall</line>
                 <line n="7">One thing is certain</line>
                 <line n="8">Heart and heart</line>
