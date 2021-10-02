@@ -10,9 +10,9 @@
 
 <lyrics>
 <chorus n="1">
-<line n="1">(Piping hot) Popping like popcorn</line>
-<line n="2">(It's all mine) Can you hear the bells ding dong</line>
-<line n="3">(This is it) (This is it)</line>
+<line n="1"><parentheses>(Piping hot)</parentheses> Popping like popcorn</line>
+<line n="2"><parentheses>(It's all mine)</parentheses> Can you hear the bells ding dong</line>
+<line n="3"><parentheses>(This is it)</parentheses> <parentheses>(This is it)</parentheses></line>
 </chorus>
 
 <verse n="1">
@@ -27,11 +27,11 @@
 </verse>
 
 <chorus n="2">
-<line n="1">(Piping hot) Popping like popcorn</line>
-<line n="2">(It's all mine) Can you hear the bells ding dong (Pick up every last one)</line>
-<line n="3">(This is it) (This is it) Ooh woah</line>
-<line n="4">(Let’s not) pretend I don't hear me</line>
-<line n="5">(Try to) move on without looking back</line>
+<line n="1"><parentheses>(Piping hot)</parentheses> Popping like popcorn</line>
+<line n="2"><parentheses>(It's all mine)</parentheses> Can you hear the bells ding dong (Pick up every last one)</line>
+<line n="3"><parentheses>(This is it)</parentheses> <parentheses>(This is it)</parentheses> Ooh woah</line>
+<line n="4"><parentheses>(Let’s not)</parentheses> pretend I don't hear me</line>
+<line n="5"><parentheses>(Try to)</parentheses> move on without looking back</line>
 <line n="6">'Cause I realized it</line>
 <line n="7">Perfection can't please me</line>
 </chorus>
@@ -48,11 +48,11 @@
 </verse>
 
 <chorus n="3">
-<line n="1">(Piping hot) Popping like popcorn</line>
-<line n="2">(It's all mine) Watch my soul bang bang (Pick up every last one)</line>
-<line n="3">(This is it) (This is it) Ooh woah</line>
-<line n="4">(Let's not) pretend I don’t hear me</line>
-<line n="5">(Try to) move on without looking back</line>
+<line n="1"><parentheses>(Piping hot)</parentheses> Popping like popcorn</line>
+<line n="2"><parentheses>(It's all mine)</parentheses> Watch my soul bang bang (Pick up every last one)</line>
+<line n="3"><parentheses>(This is it)</parentheses> <parentheses>(This is it)</parentheses> Ooh woah</line>
+<line n="4"><parentheses>(Let's not)</parentheses> pretend I don’t hear me</line>
+<line n="5"><parentheses>(Try to)</parentheses> move on without looking back</line>
 <line n="6">'Cause I realized it</line>
 <line n="7">Perfection can't please me</line>
 </chorus>
@@ -65,13 +65,13 @@
 </bridge>
 
 <chorus n="4">
-<line n="1">(Piping hot) Popping like popcorn</line>
-<line n="2">(It's all mine) Watch my soul bang bang (Pick up every last one)</line>
-<line n="3">(This is it) (This is it) Ooh yeah</line>
-<line n="4">(Let's not) pretend I don't hear me</line>
-<line n="5">(Try to) move on without looking back</line>
-<line n="6">(Piping hot) Cry and laugh</line>
-<line n="7">(It's all mine) Let you want those days</line>
+<line n="1"><parentheses>(Piping hot)</parentheses> Popping like popcorn</line>
+<line n="2"><parentheses>(It's all mine)</parentheses> Watch my soul bang bang <parentheses>(Pick up every last one)</parentheses></line>
+<line n="3"><parentheses>(This is it)</parentheses> <parentheses>(This is it)</parentheses> Ooh yeah</line>
+<line n="4"><parentheses>(Let's not)</parentheses> pretend I don't hear me</line>
+<line n="5"><parentheses>(Try to)</parentheses> move on without looking back</line>
+<line n="6"><parentheses>(Piping hot)</parentheses> Cry and laugh</line>
+<line n="7"><parentheses>(It's all mine)</parentheses> Let you want those days</line>
 <line n="8">I guess it's not all fun and games</line>
 <line n="9">This journey is my own</line>
 <line n="10">I'm sorry if I bothered you</line>
