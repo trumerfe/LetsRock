@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Song%20RNG/Song-RNC.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
     <song name="The Disaster of Passion">
         <metadata>
@@ -15,55 +16,68 @@
                 <line n="6">go by</line>
             </verse>
     
-    No matter how big it is,
-    its time will come
-    It will be reborn as something new
-    The full moon
-    Bright balloons
-    Only my feelings will ever grow
+    <verse n="2">
+    <line n="1">No matter how big it is,</line>
+        <line n="2">its time will come</line>
+        <line n="3">It will be reborn as something new</line>
+        <line n="4">The full moon</line>
+        <line n="5">Bright balloons</line>
+        <line n="6"><i story="may">Only my feelings will ever grow</i></line>
+    </verse>
     
-    <parentheses>(An off-season)</parentheses>
-    Swallow. So that's me
-    Non-stop love song
-    <parentheses>(I will)</parentheses> follow you,
-    wherever you go
-    I can't wait to
-    catch up
-    Before the sun sleeps
-    Not if you're short of breath
-    I'm The Disaster of Passion
-    All you need to know is one or two things, or a few
-    I'm alone, but I'm not alone
-    You know that, right?
-    Trees and Rain
-    Now and then
-    I can't live without that precious one
+            <chorus n="1">
+                <line n="1"><parentheses>(An off-season)</parentheses></line>
+                <line n="2">Swallow. So that's me</line>
+                <line n="3">  Non-stop love song</line>
+                <line n="4"><parentheses>(I will)</parentheses> follow you,</line>
+                <line n="5">wherever you go</line>
+                <line n="6">I can't wait to</line>
+                <line n="7">catch up</line>
+                <line n="8">Before the sun sleeps</line>
+                <line n="9">Not if you're short of breath</line>
+                <line n="10">I'm The Disaster of Passion</line>
+    </chorus>
     
-    <parentheses>(An off-season)</parentheses>
-    Swallow. So that's me
-    springtime syndrome
-    <parentheses>(I will)</parentheses> follow you,
-    wherever you go
-    I can't wait to
-    catch up
-    Before the sun sleeps
-    Not if you're short of breath
-    Just so you know, please don't think you're
-    going to get away with it. Okay?
+            <verse n="3">
+                <line n="1">All you need to know is one or two things, or a few</line>
+                <line n="2">I'm alone, but I'm not alone</line>
+                <line n="3"> You know that, right?</line>
+                <line n="4">Trees and Rain</line>
+                <line n="5"> Now and then</line>
+                <line n="6">I can't live without that precious one</line>
+    </verse>
     
-    The sun shine,
-    The breeze's song
+            <chorus n="2"> 
+                <line n="1"><parentheses>(An off-season)</parentheses></line>
+                <line n="2">Swallow. So that's me</line>
+                <line n="3">springtime syndrome</line>
+                <line n="4"><parentheses>(I will)</parentheses> follow you,</line>
+                <line n="5">wherever you go</line>
+                <line n="6"> I can't wait to</line>
+                    <line n="7">catch up</line>
+                    <line n="8">Before the sun sleeps</line>
+                    <line n="9"> Not if you're short of breath</line>
+                    <line n="10"> Just so you know, please don't think you're</line>
+                    <line n="11"> going to get away with it. Okay?</line>
+   </chorus>
     
-    <parentheses>(An off-season)</parentheses>
-    Swallow. So that's me
-    Non-stop love song
-    <parentheses>(I will)</parentheses> follow you,
-    wherever you go
-    I can't wait to
-    catch up
-    Before the sun sleeps
-    Not if you're short of breath
-    I'm The Disaster of Passion
+    <bridge n="1">
+        <line n="1"> The sun shine,</line>
+        <line n="2">The breeze's song</line>
+    </bridge>
+        
+            <chorus n="3">
+                <line n="1"><parentheses>(An off-season)</parentheses></line>
+                <line n="2">Swallow. So that's me</line>
+                <line n="3">Non-stop love song</line>
+                <line n="4"><parentheses>(I will)</parentheses> follow you,</line>
+                <line n="5">wherever you go</line>
+                <line n="6">I can't wait to</line>
+                <line n="7">catch up</line>
+                <line n="8">Before the sun sleeps</line>
+                <line n="9">Not if you're short of breath</line>
+                <line n="10">I'm The Disaster of Passion</line> 
+            </chorus>
     </lyrics>
     </song>
 </xml>
