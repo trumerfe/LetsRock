@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
+<?xml-model href="../Song%20RNG/Song-RNC.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
 <song name="Perfection Can't Please Me">
 <metadata>
@@ -8,71 +9,76 @@
 </metadata>
 
 <lyrics>
-<chorus n="1">(Piping hot) Popping like popcorn
-(It's all mine) Can you hear the bells ding dong
-(This is it) (This is it)
+<chorus n="1">
+<line n="1">(Piping hot) Popping like popcorn</line>
+<line n="2">(It's all mine) Can you hear the bells ding dong</line>
+<line n="3">(This is it) (This is it)</line>
 </chorus>
 
-I<verse n="1">f I could just see your heart, how small the world
-It’s not that I don't want to know
-Walking and stopping
-Have a meaning, I guess so
-What can I say, how many miles is life
-Grab lots of snacks, and wear new shoes
-How far can I go
-I just want to feel like that everyday</verse>
+<verse n="1">
+<line n="1">If I could just see your heart, how small the world</line>
+<line n="2">It’s not that I don't want to know</line>
+<line n="3">Walking and stopping</line>
+<line n="4">Have a meaning, I guess so</line>
+<line n="5">What can I say, how many miles is life</line>
+<line n="6">Grab lots of snacks, and wear new shoes</line>
+<line n="7">How far can I go</line>
+<line n="8">I just want to feel like that everyday</line>
+</verse>
 
-<chorus n="2">(Piping hot) Popping like popcorn
-(It's all mine) Can you hear the bells ding dong (Pick up every last one)
-(This is it) (This is it) Ooh woah
-(Let’s not) pretend I don't hear me
-(Try to) move on without looking back
-'Cause I realized it
-Perfection can't please me</chorus>
+<chorus n="2">
+<line n="1">(Piping hot) Popping like popcorn</line>
+<line n="2">(It's all mine) Can you hear the bells ding dong (Pick up every last one)</line>
+<line n="3">(This is it) (This is it) Ooh woah</line>
+<line n="4">(Let’s not) pretend I don't hear me</line>
+<line n="5">(Try to) move on without looking back</line>
+<line n="6">'Cause I realized it</line>
+<line n="7">Perfection can't please me</line>
+</chorus>
 
 <verse n="2">
-I didn't know that I could see the sky with my eyes closed,
-And a moon to talk to
-The world will spread everywhere,
-If I want it to
-Tell me more, how many miles is life
-In the rainy streets, and having no umbrella
-A time to be joyful
-I just want to feel like that everyday
+<line n="1">I didn't know that I could see the sky with my eyes closed,</line>
+<line n="2">And a moon to talk to</line>
+<line n="3">The world will spread everywhere,</line>
+<line n="4">If I want it to</line>
+<line n="5">Tell me more, how many miles is life</line>
+<line n="6">In the rainy streets, and having no umbrella</line>
+<line n="7">A time to be joyful</line>
+<line n="8">I just want to feel like that everyday</line>
 </verse>
 
 <chorus n="3">
-(Piping hot) Popping like popcorn
-(It's all mine) Watch my soul bang bang (Pick up every last one)
-(This is it) (This is it) Ooh woah
-(Let's not) pretend I don’t hear me
-(Try to) move on without looking back
-'Cause I realized it
-Perfection can't please me
+<line n="1">(Piping hot) Popping like popcorn</line>
+<line n="2">(It's all mine) Watch my soul bang bang (Pick up every last one)</line>
+<line n="3">(This is it) (This is it) Ooh woah</line>
+<line n="4">(Let's not) pretend I don’t hear me</line>
+<line n="5">(Try to) move on without looking back</line>
+<line n="6">'Cause I realized it</line>
+<line n="7">Perfection can't please me</line>
 </chorus>
 
 <bridge n="1">
-How many miles is life
-Grab lots of snacks, and wear new shoes
-How far can I go
-I just want to feel like that everyday
+<line n="1">How many miles is life</line>
+<line n="2">Grab lots of snacks, and wear new shoes</line>
+<line n="3">How far can I go</line>
+<line n="4">I just want to feel like that everyday</line>
 </bridge>
 
 <chorus n="4">
-<line>(Piping hot) Popping like popcorn</line>
-<line>(It's all mine) Watch my soul bang bang (Pick up every last one)</line>
-<line>(This is it) (This is it) Ooh yeah</line>
-<line>(Let's not) pretend I don't hear me</line>
-<line>(Try to) move on without looking back</line>
-<line>(Piping hot) Cry and laugh</line>
-<line>(It's all mine) Let you want those days</line>
-<line>I guess it's not all fun and games</line>
-<line>This journey is my own</line>
-<line>I'm sorry if I bothered you</line>
-<line>'Cause I realized it</line>
-<line>Perfection can't please me</line>
+<line n="1">(Piping hot) Popping like popcorn</line>
+<line n="2">(It's all mine) Watch my soul bang bang (Pick up every last one)</line>
+<line n="3">(This is it) (This is it) Ooh yeah</line>
+<line n="4">(Let's not) pretend I don't hear me</line>
+<line n="5">(Try to) move on without looking back</line>
+<line n="6">(Piping hot) Cry and laugh</line>
+<line n="7">(It's all mine) Let you want those days</line>
+<line n="8">I guess it's not all fun and games</line>
+<line n="9">This journey is my own</line>
+<line n="10">I'm sorry if I bothered you</line>
+<line n="11">'Cause I realized it</line>
+<line n="12">Perfection can't please me</line>
 </chorus>
-</lyrics>
 
+</lyrics>
 </song>
 </xml>

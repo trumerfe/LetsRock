@@ -13,7 +13,7 @@ line = element line {n, mixed{(parentheses* | i*)}}
 parentheses = element parentheses {text}
 sname = element sname {text}
 prechorus = element prechorus {n, line*}
-bridge = element bridge {n, line*}
+bridge = element bridge {n, line*}  
 i = element i {story, text}
 # ebb: There's an error in the line above making is so that the <name> element is expected, not
 # <sname>. 
