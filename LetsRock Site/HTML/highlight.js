@@ -6,10 +6,16 @@ function init() {
     buttons[0].addEventListener('click',highlight,false)
 }
 
+
+
+function changeColor() {
+var p1 = document.getElementById("zato") 
+{p1.style.backgroundColor = "skyblue";}
+/* here, style is a *property*: the CSS styling of an element: you can add a CSS property after invoking style. */
+}
+
 function highlight() {
-alert ('its working roobs!');
-var td = document.getElementsByTagName('h2')    
-   for (var i = 0, length = td.length; i < length; i++) {
-        td[i].style.backgroundColor = "pink";
-    }  
+var highlight = document.getElementsByClassName('zato')
+    for (var i = 0, length = highlight.length; i < length; i++) 
+    {highlight[i].style.backgroundColor = "magenta"}
 }
