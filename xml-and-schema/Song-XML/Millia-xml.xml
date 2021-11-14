@@ -12,7 +12,7 @@
                 <line n="2">We know deep down</line>
                 <line n="3">There's no way</line>
                 <line n="4">Even if I smash... the mirror</line>
-                <line n="5">How do we look? Not cute</line>
+                <line n="5"><i story="millia">How do we look? Not cute</i></line>
             </verse>
             
             <prechorus n="1">
@@ -23,7 +23,7 @@
             </prechorus>
                 
             <chorus n="1">
-                <line n="1">So carry on, love the subhuman self</line>
+                <line n="1"><i story="millia">So carry on, love the subhuman self</i></line>
                 <line n="2">Time goes on, lasting road</line>
                 <line n="3">I left my regret</line>
                 <line n="4">So carry on, love the subhuman self</line>

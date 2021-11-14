@@ -17,13 +17,13 @@
 
 <verse n="1">
 <line n="1"><i story ="jKO">If I could just see your heart, how small the world</i></line>
-<line n="2">It’s not that I don't want to know</line>
+<line n="2"><i story="jKO">It’s not that I don't want to know</i></line>
 <line n="3">Walking and stopping</line>
 <line n="4">Have a meaning, I guess so</line>
 <line n="5">What can I say, how many miles is life</line>
-<line n="6">Grab lots of snacks, and wear new shoes</line>
+<line n="6"><i story="jKO">Grab lots of snacks, and wear new shoes</i></line>
 <line n="7">How far can I go</line>
-<line n="8">I just want to feel like that everyday</line>
+<line n="8"><i story="jKO">I just want to feel like that everyday</i></line>
 </verse>
 
 <chorus n="2">
@@ -42,8 +42,8 @@
 <line n="3">The world will spread everywhere,</line>
 <line n="4">If I want it to</line>
 <line n="5">Tell me more, how many miles is life</line>
-<line n="6">In the rainy streets, and having no umbrella</line>
-<line n="7">A time to be joyful</line>
+<line n="6"><i story="jKO">In the rainy streets, and having no umbrella</i></line>
+<line n="7"><i story="jKO">A time to be joyful</i></line>
 <line n="8">I just want to feel like that everyday</line>
 </verse>
 

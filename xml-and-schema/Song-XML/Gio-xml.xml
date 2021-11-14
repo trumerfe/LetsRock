@@ -37,7 +37,7 @@
 <verse n="3">
 <line n="1">All of my choices.</line>
 <line n="2">I could've quit.</line>
-<line n="3">I'm just a cold metal.</line>
+<line n="3"><i story="gio">I'm just a cold metal.</i></line>
 </verse>
 
 <chorus n="2">
@@ -50,13 +50,13 @@
 </chorus>
 
 <chorus n="3">
-<line n="1">I wanna just be a trigger with a brutish impulse,</line>
+<line n="1"><i story="gio">I wanna just be a trigger with a brutish impulse,</i></line>
 <line n="2">Trigger</line>
 <line n="3">The Silent Preacher</line>
 <line n="4">Watch out. Keep your hands off. Don't make a big deal out of me.</line>
 <line n="5">Trigger.</line>
-<line n="6">Don't be curious about me</line>
-<line n="7">I don't want you to get hurt.</line>
+<line n="6"><i story="gio">Don't be curious about me</i></line>
+<line n="7"><i story="gio">I don't want you to get hurt.</i></line>
 <line n="8">Watch out. Keep your hands off. Don't make a big deal out of me.</line>
 </chorus>
 

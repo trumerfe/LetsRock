@@ -10,7 +10,7 @@ oneoff = element oneoff {n, line*}
 verse = element verse {n, line*}
 chorus = element chorus {n, line*}
 line = element line {n, mixed{(parentheses* | i*)}}
-parentheses = element parentheses {text}
+parentheses = element parentheses {i*, text}
 sname = element sname {text}
 prechorus = element prechorus {n, line*}
 bridge = element bridge {n, line*}  
@@ -21,4 +21,4 @@ author = element author {text}
 
 name = attribute name {"Armor-clad Faith" | "Alone Infection" | "Love the Subhuman Self" | "Smell of the Game" | "Find Your One Way" | "The Roar of the Spark" | "The Disaster of Passion" | "Out of the Box" | "Play the Hero" | "Let Me Carve Your Way" | "Necessary Discrepancy" | "Hellfire" | "What do you fight for" | "Trigger" | "Rock Parade" | "Requiem" | "Crawl" | "Perfection Can't Please Me" | "The Kiss of Death"}
 n = attribute n {xsd:int}
-story = attribute story {"zato" | "pot" | "faust" | "jKO" | "ram" | "gio" | "anji"| "may" | "sol" | "nago" | "ky"}
+story = attribute story {"zato" | "pot" | "faust" | "jKO" | "ram" | "gio" | "anji"| "may" | "sol" | "nago" | "ky" | "leo" | "chipp" | "axl" | "ino" | "goldlewis" | "millia"}
