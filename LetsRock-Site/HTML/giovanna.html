@@ -11,14 +11,25 @@ img {
   margin-left: auto;
   margin-right: auto;
 }
+
+header {
+display: flex;
+flex-direction: row;
+}
+figure#left {flex: 1}
+
+figure#right{flex: 1}
+
+nav {flex: 2}
+
 </style>
     </head>
     <body>
         <header>
-            <div class="container">
- <img src="gio.jpg" alt="logo" class="logo" width="60" style="padding-left: 30em">
+            <figure id="left" class="container">
+ <img src="gio.jpg" alt="logo" class="logo" width="60" >
             </img>
-            </div>
+            </figure>
             <nav>
                 <ul>
                     <li><a href="index.html">Home</a></li>
@@ -27,8 +38,12 @@ img {
                     <li><a href="characterlist.html">Characters</a></li>
                 </ul>
             </nav>
+            <figure id="right" class="container">
+                <img src="gio.jpg" alt="logo" class="logo" width="60" >
+                </img>
+            </figure>
         </header>
-        <h2><center>Giovanna</center></h2>
+        <h2>Giovanna</h2>
         <p>placeholder text</p>
         <img src="giogif.gif" alt="gio" class="center" />
     </body>
