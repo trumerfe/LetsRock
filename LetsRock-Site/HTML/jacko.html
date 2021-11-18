@@ -5,9 +5,30 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
         <link rel="stylesheet" type="text/css" href="letsrockCss.css"/>
         <title>Let's Rock</title>
+        <style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+header {
+display: flex;
+flex-direction: row;
+}
+figure#left {flex: 1}
+
+figure#right{flex: 1}
+
+nav {flex: 2}
+
+        </style>
     </head>
     <body>
         <header>
+            <figure id="left" class="container">
+                <img src="Character-portraits/jko.jpg" alt="logo" class="logo" width="60" >
+                </img>
+            </figure>
             <nav>
                 <ul style="list-style: none;">
                     <li><a href="index.html">Home</a></li>
@@ -16,8 +37,12 @@
                     <li><a href="characterlist.html">Characters</a></li>
                 </ul>
             </nav>
+            <figure id="right" class="container">
+                <img src="Character-portraits/jko.jpg" alt="logo" class="logo" width="60" >
+                </img>
+            </figure>
         </header>
-        <h2><center>Jack-O' Valentine</center></h2>
+        <h2>Jack-O' Valentine</h2>
         <p>placeholder text</p>
     </body>
 </html>
