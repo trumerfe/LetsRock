@@ -24,5 +24,6 @@ a:hover {
     color: #999999;
 }
 
-
-
+.center {
+  text-align: center;
+}
