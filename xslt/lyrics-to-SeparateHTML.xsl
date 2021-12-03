@@ -19,6 +19,8 @@
                 <title>Let’s Rock: All the Lyrics</title>
                 <meta charset="UTF-8" />
                 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+                <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+                <link rel="stylesheet" type="text/css" href="letsrockCss.css"/>
                 
                 <!--ebb: Add your link element for the CSS stylesheet association here.
                   <link rel="stylesheet" type="text/css" href="style.css" />
@@ -28,7 +30,17 @@
                 -->
             </head>
             <body>
-                <h1>Let’s Rock: All the Lyrics</h1>
+                <header>
+                    <nav>
+                        <ul>
+                            <li><a href="index.html">Home</a></li>
+                            <li><a href="about.html">About Let's Rock</a></li>
+                            <li><a href="songlist.html">Songs</a></li>
+                            <li><a href="characterlist.html">Characters</a></li>
+                        </ul>
+                    </nav>
+                </header>
+                <!--<h1>Let’s Rock: All the Lyrics</h1>-->
                 <!--Add HTML buttons, table of contents, etc? -->
                 <!--The next section outputs the lyrics of each song in your XML collection.
                 For now it's all one file, but we can revise this to output each song in a separate file.
