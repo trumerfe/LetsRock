@@ -45,7 +45,7 @@
                         <h2><xsl:apply-templates select="current()//sname"/></h2>
                         <h3><xsl:apply-templates select="current()//author"/></h3>
                         
-                        <xsl:apply-templates select="descendant::verse | descendant::chorus"/>
+                        <xsl:apply-templates select="descendant::verse | descendant::chorus | descendant::oneoff | descendant::prechorus | descendant::bridge"/>
                     </section>
            </section>
             </body>
@@ -53,7 +53,7 @@
             </xsl:result-document>
         </xsl:for-each>
     </xsl:template>
-    <xsl:template match="verse | chorus">
+    <xsl:template match="verse | chorus | oneoff | prechorus | bridge">
         <div class="{current()/name()}">
             <xsl:apply-templates/>
         </div>
