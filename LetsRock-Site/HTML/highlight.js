@@ -1,7 +1,7 @@
 window.addEventListener('DOMContentLoaded',init,false);
             
 function init() {
-    alert('The page loaded!');
+    
     var buttons = document.getElementsByTagName("button")
     buttons[0].addEventListener('click',highlight,false)
 }
