@@ -1,5 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="2000" height="3000">
     <g transform="translate(30, 1000)">
+        <rect x="-50" y="-2900" width="1550" height="3300" fill="white"/>
         <line x1="0" y1="0" x2="0" y2="-3300" stroke="blue" stroke-width="3"/>
         <g class="characters">
             <text x="80" y="-357">3376</text> 

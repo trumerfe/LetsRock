@@ -11,6 +11,10 @@ header {
     background-color: #570b14;
     text-align: center;
 }
+imgbg {
+    background-color: #FFFFFF;
+    text-align: center;
+}
 a:active {
     color: #999999;
 }
